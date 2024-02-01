@@ -47,7 +47,7 @@ Use these settings when adding a monitor:</b>
 ### Deploy On Heroku 
 <details><summary>Deploy To Heroku</summary>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/mrnoobx/File-Store-Bot-With-Url-Shortner">
+<a href="https://heroku.com/deploy?template=https://github.com/mrnoobx/File-Store-Bot-With-Url-Shortner/tree/main">
 <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku">
 </a>
 </details>
