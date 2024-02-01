@@ -8,7 +8,7 @@ class Config(object):
   DB_CHANNEL = int(os.environ.get("DB_CHANNEL", "-1002008251110"))
   SHORTLINK_URL = os.environ.get('SHORTLINK_URL', "MoneyKamalo.com")
   SHORTLINK_API = os.environ.get('SHORTLINK_API', "e0d90b56d6c72632f56c395c0bc2124aa20a6805")
-  BOT_OWNER = int(os.environ.get("BOT_OWNER", "747994215"))
+  BOT_OWNER = int(os.environ.get("BOT_OWNER", "6575679459"))
   DATABASE_URL = os.environ.get("DATABASE_URL", "mongodb+srv://Maher-Zubair:SIGMA-MD@zubi.9g6b16y.mongodb.net/?retryWrites=true&w=majority&appName=AtlasApp")
   UPDATES_CHANNEL = os.environ.get("UPDATES_CHANNEL", "-1002008251110")
   LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1002008251110"))
